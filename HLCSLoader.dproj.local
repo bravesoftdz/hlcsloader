@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dproj,E:\[Documents]\RAD Studio\Projects\Project1.dproj=E:\[Documents]\RAD Studio\Projects\CSLoader.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,E:\[Documents]\[Data]\[Delphi]\Projects 2009\CSLoader\CSLoader.dproj=E:\[Documents]\[Data]\[Delphi]\Projects 2009\CSLoader\_CSLoader.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,E:\[Documents]\[Data]\[Delphi]\Projects 2009\CSLoader\_CSLoader.dproj=E:\[Documents]\[Data]\[Delphi]\Projects 2009\CSLoader\CSLoader.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,E:\[Documents]\RAD Studio\Projects\CSLoader.dproj=E:\[Documents]\[Data]\[Delphi]\Projects 2009\CSLoader\CSLoader.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,E:\[Documents]\[Data]\[Delphi]\Projects 2009\CSLoader\HLLoader.dproj=E:\[Documents]\[Data]\[Delphi]\Projects 2009\CSLoader\CSLoader.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dproj,E:\[Documents]\[Data]\[Delphi]\Projects 2009\CSLoader\CSLoader.dproj=E:\[Documents]\[Data]\[Delphi]\Projects 2009\CSLoader\HLLoader.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,E:\[Documents]\RAD Studio\Projects\Unit1.dfm=E:\[Documents]\RAD Studio\Projects\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,E:\[Documents]\RAD Studio\Projects\uMain.dfm=E:\[Documents]\[Data]\[Delphi]\Projects 2009\CSLoader\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,E:\[Documents]\RAD Studio\Projects\Unit1.pas=E:\[Documents]\RAD Studio\Projects\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,W:\_Development\_Delphi\_Projects\HLCSLoader\HLLoader.dproj=W:\_Development\_Delphi\_Projects\HLCSLoader\HLCSLoader.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,E:\[Documents]\RAD Studio\Projects\uMain.pas=E:\[Documents]\[Data]\[Delphi]\Projects 2009\CSLoader\uMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
